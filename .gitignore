@@ -1,0 +1,13 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS-specific files (Windows)
+Thumbs.db
+Desktop.ini
+
+# Editor/IDE files
+.vscode/
