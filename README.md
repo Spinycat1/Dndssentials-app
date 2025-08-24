@@ -10,7 +10,9 @@ Feel free to add to this app with additional tools if you wish.
 
 Installation:
 Clone this repository:
+
 git clone https://github.com/Spinycat1/Dndssentials-app
+
 cd Dndssentials-app
 
 Optionally you can create a virtual environment
